@@ -1,0 +1,26 @@
+.firstparagraph{
+	font-size: 30px;
+	color: red;
+	width: 800px;
+	border: 1px solid gold;
+	text-align: justify;
+}
+
+em{
+	color: gold;
+}
+
+h1{
+	color: red;
+}
+
+body{
+	background-color: black;
+}
+
+.image{
+	top: 90;
+	margin: 45px;
+	border: 10px solid gold;
+
+}
